@@ -1,0 +1,85 @@
+body {
+  background-image: url(../images/portofino-italy.jpg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.maincontent {
+  background-color: #464646;
+  opacity: 0.8;
+  margin-top: 20px;
+  width: 50%;
+  margin-left: 25%;
+  position: absolute;
+}
+
+#maintitle {
+  font-family: Bebas Neue;
+  color: #FFFFFF;
+  font-size: 6em;
+  font-weight: bold;
+  position: relative;
+  margin: 20px;
+}
+
+#subpagetitle {
+  font-family: Bebas Neue;
+  color: #FFFFFF;
+  font-size: 3em;
+  position: relative;
+  margin: 20px;
+}
+
+.profilepic {
+  position: relative;
+  float: right;
+}
+
+#subtitle {
+  font-family: Lato;
+  color: orange;
+  font-size: 2em;
+  position: relative;
+  margin: 20px;
+}
+
+p {
+  font-family: Ubuntu;
+  font-size: 1em;
+  color: #ffffff;
+  margin: 20px;
+}
+
+a {
+  font-family: Ubuntu;
+  font-size: 1em;
+  color: #ffffff;
+  text-decoration: none;
+}
+
+a:hover {
+  color: orange;
+  font-size: 1em;
+  font-weight: bold;
+}
+
+.social {
+  margin: 20px
+}
+
+td {
+  padding-right: 20px;
+}
+
+#bgpic {
+  width: 50%;
+  float: right;
+  position: relative;
+  margin-top: 5px;
+}
+
+#montserrat {
+  margin: 5px;
+}
